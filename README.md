@@ -14,7 +14,7 @@
 
 ## 🔗 Connect with Me
 
-- ✉️ Email: [hsiaotiwang@outlook.com](mailto:xiaodi.dennis.wang@gmail.com)  
+- ✉️ Email: [xiaodi.dennis.wang@gmail.com](mailto:xiaodi.dennis.wang@gmail.com)  
 - 💼 LinkedIn: [xiaodidenniswang](https://www.linkedin.com/in/xiaodidenniswang)  
 - 💻 GitHub: [github.com/XiaodiDennis](https://github.com/XiaodiDennis)
 
