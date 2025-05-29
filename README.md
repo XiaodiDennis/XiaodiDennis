@@ -29,7 +29,7 @@
 
 ## 🤝 I’m looking to collaborate on
 - Full-stack fintech platforms  
-- Backend systems for finance and legal tech  
+- Backend systems for finance
 - Tools that streamline digital banking transformation
 
 ---
